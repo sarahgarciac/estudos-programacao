@@ -1,2 +1,2 @@
 # estudos-programacao
-Questões/lições/projetos do curso de ADS (Uninter) e cursos avulsos (como do Coursera) realizados, que serviram para treinar meus conhecimentos em programação.
+Oi! Seja muito bem-vindo(a)! Aqui posto as questões/lições/projetos feitas no curso de ADS (Uninter) e  em cursos avulsos (como os da Coursera), que serviram para treinar meus conhecimentos em programação.
