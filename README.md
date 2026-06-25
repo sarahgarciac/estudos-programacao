@@ -6,15 +6,15 @@ Oi! Seja muito bem-vindo(a)! Aqui posto as questões/lições/projetos feitas no
 Tarefa básica para treinar print em python. 
 ## 02. 
 Tarefa para treinar a manipulação de variáveis e de dados em python. 
-##03. 
+## 03. 
 Tarefa para treinar o uso de leitura de documentos em python. 
-##04. 
+## 04. 
 Tarefa para treinar manipulação de listas em python. 
-##05. 
+## 05. 
 Desafio para treinar aplicação de laços.
-##06. 
+## 06. 
 Desafio para treinar aplicação de laços.
-##07. 
+## 07. 
 Desafio para treinar alguns comandos básicos de HTML, criando uma página de um site. 
 
 
