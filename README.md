@@ -1,22 +1,30 @@
 # estudos-programacao
 Oi! Seja muito bem-vindo(a)! Aqui posto as questões/lições/projetos feitas no curso de ADS (Uninter) e  em cursos avulsos (como os da Coursera), que serviram para treinar meus conhecimentos em programação.
 
-# Drescrições dos projetos simples e tarefas:
-## 01. 
-Tarefa básica para treinar print em python. 
-## 02. 
-Tarefa para treinar a manipulação de variáveis e de dados em python. 
-## 03. 
-Tarefa para treinar o uso de leitura de documentos em python. 
-## 04. 
-Tarefa para treinar manipulação de listas em python. 
-## 05. 
-Desafio para treinar aplicação de laços.
-## 06. 
-Desafio para treinar aplicação de laços.
-## 07. 
-Desafio para treinar alguns comandos básicos de HTML, criando uma página de um site. 
+----------
 
+## 📋 Descrições dos projetos e tarefas:
+
+### 01. Print em Python
+Tarefa básica para treinar a função `print()` em Python.
+
+### 02. Manipulação de Variáveis
+Tarefa para treinar a manipulação de variáveis e tipos de dados em Python.
+
+### 03. Leitura de Documentos
+Tarefa para treinar o uso de leitura e manipulação de arquivos/documentos em Python.
+
+### 04. Listas em Python
+Tarefa para treinar a manipulação e estruturação de listas em Python.
+
+### 05. Laços de Repetição (Desafio I)
+Desafio para treinar a aplicação de laços de repetição (`while` / `for`).
+
+### 06. Laços de Repetição (Desafio II)
+Desafio para treinar a aplicação avançada de laços de repetição e lógica de controle.
+
+### 07. Interface Web: Agendamento de Aulas
+Desafio para treinar comandos básicos de **HTML**, criando a interface de uma página de agendamento de aulas particulares.
 
 
 
