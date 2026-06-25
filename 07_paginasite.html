@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aulas Particulares</title>
+</head>
+<body>
+    <h1>Seja bem-vindo(a)!</h1>
+    <h3>Nessa página você pode agendar aulas particulares comigo! Para isso, é só preencher o formulário abaixo:</h3> 
+    <br>
+    <form method = "post" action = "teste.jsp">Preencha suas informações: <br> <!-- aqui podia ir para o whatsapp e insta -->
+    Nome Completo: <input type="text" name="Nome">        
+    Email: <input type = "email" name="email"> <br>
+    Idade: <input type="text" name="idade"> <br>
+    Período de aula desejado: <select name="período">
+        <option>Manhã</option>
+        <option>Tarde</option>
+        <option>Noite</option>
+    </select>
+    Especifique os horários: <input type ="text" name="horas"> <br>
+    Escolha o formato da aula: <br> 
+    <input type="radio" name="formato" value="Remoto"> Remoto <br>
+    <input type="radio" name="formato" value="Presencial"> Presencial <br>
+    <input type="radio" name="formato" value="Híbrido"> Híbrido <br>
+    Indique as matérias das aulas:<input type="checkbox" name="Redação"> Redação
+    <input type="checkbox" name = "inglês"> Inglês
+    <input type="checkbox" name = "matemática"> Matemática
+    <input type="checkbox" name = "física"> Física <br> 
+    Qual dia você gostaria de começar? <input type="date" name="data"> <br>
+    Possue algum comentário ou observação? <br>
+    <textarea name="comentario"></textarea>
+    <br>
+    <input type="submit"> 
+    </form>
+</body>
+</html>
