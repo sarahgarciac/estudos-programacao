@@ -26,6 +26,8 @@ Desafio para treinar a aplicação avançada de laços de repetição e lógica 
 ### 07. Interface Web: Agendamento de Aulas
 Desafio para treinar comandos básicos de **HTML**, criando a interface de uma página de agendamento de aulas particulares.
 
+### 08. Paramêtros de função
+Exercício para treinar a criação de função com parâmetros, criando uma borda ajustável para cada palavra inserida. 
 
 
 
